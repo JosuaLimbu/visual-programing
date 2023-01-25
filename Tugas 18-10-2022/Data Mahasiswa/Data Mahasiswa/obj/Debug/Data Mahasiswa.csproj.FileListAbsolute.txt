@@ -1,0 +1,69 @@
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.csproj.AssemblyReference.cache
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.csproj.SuggestedBindingRedirects.cache
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data_Mahasiswa.Form1.resources
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data_Mahasiswa.Properties.Resources.resources
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.csproj.GenerateResource.cache
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.csproj.CoreCompileInputs.cache
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\MySql.Data.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\MySql.Web.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\Google.Protobuf.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\ZstdNet.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\BouncyCastle.Crypto.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\System.Memory.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\System.Buffers.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\K4os.Compression.LZ4.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\K4os.Hash.xxHash.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\MySql.Data.xml
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\MySql.Web.xml
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data_Mahasiswa.Form3.resources
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.csproj.CopyComplete
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\Data Mahasiswa.exe.config
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\Data Mahasiswa.exe
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\Data Mahasiswa.pdb
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.exe.config
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.exe
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.pdb
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\Data Mahasiswa.exe.config
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\Data Mahasiswa.exe
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\Data Mahasiswa.pdb
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\Google.Protobuf.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\ZstdNet.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\BouncyCastle.Crypto.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\System.Memory.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\System.Buffers.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\K4os.Compression.LZ4.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\K4os.Hash.xxHash.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\MySql.Data.xml
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\MySql.Web.xml
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.csproj.AssemblyReference.cache
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.csproj.SuggestedBindingRedirects.cache
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.exe.config
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data_Mahasiswa.Form1.resources
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data_Mahasiswa.Form3.resources
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data_Mahasiswa.Properties.Resources.resources
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.csproj.GenerateResource.cache
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.csproj.CoreCompileInputs.cache
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.csproj.CopyComplete
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.exe
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Mahasiswa.pdb
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.Shared.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\stdole.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data_Mahasiswa.data_mahasiswa.resources
+D:\Mata-Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data_Mahasiswa.datamahasiswa1.resources

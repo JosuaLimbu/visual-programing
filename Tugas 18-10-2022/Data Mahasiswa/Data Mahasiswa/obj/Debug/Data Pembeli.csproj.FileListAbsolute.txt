@@ -1,0 +1,25 @@
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\pppp.exe.config
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\pppp.exe
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\pppp.pdb
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\MySql.Data.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\MySql.Web.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\Google.Protobuf.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\ZstdNet.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\BouncyCastle.Crypto.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\System.Memory.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\System.Buffers.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\K4os.Compression.LZ4.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\K4os.Hash.xxHash.dll
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\MySql.Data.xml
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\bin\Debug\MySql.Web.xml
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Pembeli.csproj.AssemblyReference.cache
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Pembeli.csproj.SuggestedBindingRedirects.cache
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\pppp.exe.config
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data_Mahasiswa.Form1.resources
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data_Mahasiswa.Properties.Resources.resources
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Pembeli.csproj.GenerateResource.cache
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Pembeli.csproj.CoreCompileInputs.cache
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\Data Pembeli.csproj.CopyComplete
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\pppp.exe
+D:\Mata Kuliah\Semester V\Visual Programing\Tugas 18-10-2022\Data Mahasiswa\Data Mahasiswa\obj\Debug\pppp.pdb

@@ -1,0 +1,101 @@
+using System;
+
+public class Program
+{
+    public static void Main()
+    {
+
+        Biodata bio1 = new Biodata();
+        Console.Write("Masukkan Nama : ");
+        string josua = Console.ReadLine();
+        bio1.a(josua);
+
+        Console.Write("Masukkan Umur : ");
+        josua = Console.ReadLine();
+        bio1.b(josua);
+
+        Console.Write("Masukkan Alamat : ");
+        josua = Console.ReadLine();
+        bio1.c(josua);
+
+        Console.Write("Masukkan Jurusan : ");
+        josua = Console.ReadLine();
+        bio1.d(josua);
+
+        Console.Write("Masukkan Tanggal Lahir : ");
+        josua = Console.ReadLine();
+        bio1.e(josua);
+
+        Console.WriteLine("Out")
+        Console.WriteLine("Nama : {0}", bio1.aa());
+        Console.WriteLine("Umur : {0}", bio1.bb());
+        Console.WriteLine("Alamat : {0}", bio1.cc());
+        Console.WriteLine("Jurusan : {0}", bio1.dd());
+        Console.WriteLine("Tanggal Lahir : {0}", bio1.ee());
+
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+public class Biodata
+{
+    private string nama;
+    private string umur;
+    private string alamat;
+    private string jurusan;
+    private string ttl;
+
+    public void a(string input)
+    {
+        this.nama = input;
+    }
+    public string aa()
+    {
+        return this.nama;
+    }
+    public void b(string input)
+    {
+        this.umur = input;
+    }
+    public string bb()
+    {
+        return this.umur;
+    }
+    public void c(string input)
+    {
+        this.alamat = input;
+    }
+    public string cc()
+    {
+        return this.alamat;
+    }
+    public void d(string input)
+    {
+        this.jurusan = input;
+    }
+    public string dd()
+    {
+        return this.jurusan;
+    }
+    public void e(string input)
+    {
+        this.ttl = input;
+    }
+    public string ee()
+    {
+        return this.ttl;
+    }
+
+}

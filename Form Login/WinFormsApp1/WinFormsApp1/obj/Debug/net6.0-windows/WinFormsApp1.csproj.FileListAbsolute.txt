@@ -1,0 +1,7 @@
+D:\Mata Kuliah\Semester V\Visual Programing\Form Login\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Mata Kuliah\Semester V\Visual Programing\Form Login\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\Mata Kuliah\Semester V\Visual Programing\Form Login\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Mata Kuliah\Semester V\Visual Programing\Form Login\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mata Kuliah\Semester V\Visual Programing\Form Login\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Mata Kuliah\Semester V\Visual Programing\Form Login\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Mata Kuliah\Semester V\Visual Programing\Form Login\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache

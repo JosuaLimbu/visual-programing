@@ -1,0 +1,5 @@
+D:\Mata Kuliah\Semester V\Visual Programing\7-9-2022\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Encapsulation.csproj.AssemblyReference.cache
+D:\Mata Kuliah\Semester V\Visual Programing\7-9-2022\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mata Kuliah\Semester V\Visual Programing\7-9-2022\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+D:\Mata Kuliah\Semester V\Visual Programing\7-9-2022\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+D:\Mata Kuliah\Semester V\Visual Programing\7-9-2022\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
